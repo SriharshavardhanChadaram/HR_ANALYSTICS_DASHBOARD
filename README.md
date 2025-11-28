@@ -101,10 +101,6 @@ in
 - Tenure of employees who left  
 - Potential attrition causes  
 
----
-
-## 📷 Dashboard Preview
-(Add your dashboard screenshots inside `/images/`)
 
 ---
 
