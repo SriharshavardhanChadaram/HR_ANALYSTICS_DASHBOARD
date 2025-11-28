@@ -7,7 +7,7 @@
 https://github.com/CoderNitu/HR_Analytics_Dashboard_PowerBI/assets/87817227/4214abf4-f4d8-4088-bc0e-4be22d70c6b3
 
 
-# 👨‍💼 HR Analytics Dashboard – Power BI (GitHub Version)
+# 👨‍💼 HR Analytics Dashboard – Power BI
 
 ## 📌 Overview
 The **HR Analytics Dashboard** provides insights into employee retention, absenteeism, department performance, attrition, and workforce trends.  
@@ -110,8 +110,8 @@ in
 
 ## 📬 Contact
 **Author:** Sri Harsha Vardhan  
-📧 Email: your-email@example.com  
-🔗 GitHub: https://github.com/  
+📧 Email: sriharshavardhanchadaram.com  
+🔗 GitHub: https://github.com/https://github.com/SriharshavardhanChadaram 
 
 ---
 
